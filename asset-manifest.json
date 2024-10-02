@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/not-over-yet/not-over-yet/static/css/main.f855e6bc.css",
-    "main.js": "/not-over-yet/not-over-yet/static/js/main.d7680ac3.js",
+    "main.css": "/not-over-yet/not-over-yet/static/css/main.d6b4f124.css",
+    "main.js": "/not-over-yet/not-over-yet/static/js/main.5bc313a4.js",
     "static/js/453.9e57e881.chunk.js": "/not-over-yet/not-over-yet/static/js/453.9e57e881.chunk.js",
-    "static/media/logo.svg": "/not-over-yet/not-over-yet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/not-over-yet/not-over-yet/index.html",
-    "main.f855e6bc.css.map": "/not-over-yet/not-over-yet/static/css/main.f855e6bc.css.map",
-    "main.d7680ac3.js.map": "/not-over-yet/not-over-yet/static/js/main.d7680ac3.js.map",
+    "main.d6b4f124.css.map": "/not-over-yet/not-over-yet/static/css/main.d6b4f124.css.map",
+    "main.5bc313a4.js.map": "/not-over-yet/not-over-yet/static/js/main.5bc313a4.js.map",
     "453.9e57e881.chunk.js.map": "/not-over-yet/not-over-yet/static/js/453.9e57e881.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.d7680ac3.js"
+    "static/css/main.d6b4f124.css",
+    "static/js/main.5bc313a4.js"
   ]
 }
